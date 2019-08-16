@@ -38,7 +38,7 @@ class Round {
       this.game.start();
     }
   }
-  
+
 }
 
 module.exports = Round;
