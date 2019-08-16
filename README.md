@@ -1,4 +1,6 @@
-# FlashCards - A Turing School Mod 2 Project
+# FlashCards Project
 
-## The purpose of this project is to create and answerable set of digital flash cards in a CLI environment.  Users will take a stab at answering the questions and be given a score at the end.
+### A Turing Mod 2 Project
+
+The purpose of this project was to practice manipulating JS datasets.  The project creates a set of virtual flashcards with questions and three answers to be answered by the user in their CLI.
 
