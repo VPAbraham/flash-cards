@@ -12,11 +12,8 @@ describe('Round', function() {
     expect(Round).to.be.a('function');
   });
 
-  let card1;
-  let card2;
-  let card3;
-  let deck;
-  let round;
+  let card1, card2, card3, deck, round;
+
   beforeEach(function() {
     card1 = new Card(1, 'What is Robbie\'s favorite animal', ['sea otter', 'pug', 'capybara'], 'sea otter');
     card2 = new Card(14, 'What organ is Khalid missing?', ['spleen', 'appendix', 'gallbladder'], 'gallbladder');
